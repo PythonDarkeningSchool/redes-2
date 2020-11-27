@@ -1,8 +1,8 @@
 # Tabla de contenidos
 
-- [SquirrelMail](#squirrelmail)auto    
+- [SquirrelMail](#squirrelmail)    
   - [Pre requisitos](#pre-requisitos)
-    - [Sistema Operativo](#sistema-operativo)auto    
+    - [Sistema Operativo](#sistema-operativo)    
     - [Paquetes](#paquetes)        
       - [Apache2](#apache2)
       - [Postfix](#postfix)
