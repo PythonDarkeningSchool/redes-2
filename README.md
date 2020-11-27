@@ -1,4 +1,24 @@
+# Tabla de contenidos
 
+- [SquirrelMail](#squirrelmail)auto    
+  - [Pre requisitos](#pre-requisitos)
+    - [Sistema Operativo](#sistema-operativo)auto    
+    - [Paquetes](#paquetes)        
+      - [Apache2](#apache2)
+      - [Postfix](#postfix)
+        - [Editar el archivo main.cf](#editar-el-archivo-maincf)
+        - [Reinciar servicio de Postfix](#reinciar-servicio-de-postfix)
+      - [courier-pop](#courier-pop)
+      - [courier-imap](#courier-imap)
+      - [squirrelmail](#squirrelmail)
+      - [mailutils](#mailutils)
+  - [Configurando courier daemon](#configurando-courier-daemon)
+  - [Configurando squirrelmail](#configurando-squirrelmail)
+  - [Configurando apache2](#configurando-apache2)
+    - [Editar archivo de configuracion de apache2](#editar-archivo-de-configuracion-de-apache2)
+  - [Agregando usuarios al sistema](#agregando-usuarios-al-sistema)
+  - [Habilitando los usuarios para squirrelmail](#habilitando-los-usuarios-para-squirrelmail)
+  - [Ingresar a la intefaz grafica de squirrelmail](#ingresar-a-la-intefaz-grafica-de-squirrelmail)
 
 # SquirrelMail
 
