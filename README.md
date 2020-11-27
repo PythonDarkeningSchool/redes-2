@@ -19,6 +19,7 @@
   - [Agregando usuarios al sistema](#agregando-usuarios-al-sistema)
   - [Habilitando los usuarios para squirrelmail](#habilitando-los-usuarios-para-squirrelmail)
   - [Ingresar a la intefaz grafica de squirrelmail](#ingresar-a-la-intefaz-grafica-de-squirrelmail)
+  - [Autor](#autor)
 
 # SquirrelMail
 
@@ -300,3 +301,9 @@ sudo chown -R <TU_USUARIO>.<TU_USUARIO> /home/<TU_USUARIO>/Maildir
 2. Ingresa un usuario y su contrasena para empezar a mandar correos, sigue el ejemplo del `gif` a continuacion:
 
 ![send_emails_how_to.gif](.img/send_emails_how_to.gif)
+
+# Autor
+
+- Humberto Israel Perez Rodriguez
+- Materia: Redes 2
+- Profesor: Edgar Arturo Enrique Lopez
