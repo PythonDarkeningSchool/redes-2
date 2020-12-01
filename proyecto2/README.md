@@ -1,28 +1,29 @@
 
 # Requerimientos de hardware
 
-1. Raspberry PI 3 modelo B o superior
+1 - Raspberry PI 3 modelo B o superior
 
 ![raspberry_pi_3_board](.img/raspberry_pi_3_board.jpg)
 
 
-2. Cables dupont jumper hembra-hembra 30 cm
+2 - Cables dupont jumper hembra-hembra 30 cm
+
 ![cables_dupont_jumper_hembra-hembra_30_cm](.img/cables_dupont_jumper_hembra-hembra_30_cm.jpg)
 
 
-3. Modulo de relay de 4 canales a 5v
+3 - Modulo de relay de 4 canales a 5v
 
 ![modulo_relay_4_canales_5vdc](.img/modulo_relay_4_canales_5vdc.png)
 
-4. Cable del polo #16
+4 - Cable del polo #16
 
 ![cable_polo_16](.img/cable_polo_16.jpg)
 
-5. Clavija
+5 - Clavija
 
 ![clavija](.img/clavija.jpg)
 
-6. Caja de contactos
+6 - Caja de contactos
 
 ![caja_de_contactos](.img/caja_de_contactos.jpg)
 
