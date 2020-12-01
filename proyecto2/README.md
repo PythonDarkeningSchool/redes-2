@@ -28,6 +28,7 @@ Por ejemplo, aqui se conecto un reloj digital para su correcta manipulacion
 
 ![portada](.img/portada.jpg)
 
+_______________________________________________
 # Requerimientos de hardware
 
 1 - Raspberry PI 3 modelo B o superior
@@ -56,6 +57,7 @@ Por ejemplo, aqui se conecto un reloj digital para su correcta manipulacion
 
 ![caja_de_contactos](.img/caja_de_contactos.jpg)
 
+_______________________________________________
 # Requerimienos de software
 
 ## Sistema Operativo
@@ -89,6 +91,7 @@ chmod +x relayManager.sh
 sudo ln -s relayManager.sh /usr/bin/relayManager
 ```
 
+_______________________________________________
 # Instrucciones de ensamblado
 
 ## Conexion de la raspberry con el modulo de relay
@@ -144,6 +147,7 @@ En la imagen a continuacion se ilustra como conectar un reloj digital a la caja 
 
 ![all_project](.img/configuration/all_project.jpeg)
 
+_______________________________________________
 # Encendiendo y apagando lo conectado a la caja de contactos
 
 ![evidence](.img/evidence.gif)
@@ -172,12 +176,14 @@ sudo relayManager -off <GPIO_PIN>
 
 ![turn_off_gpio](.img/boot_up/turn_off_gpio.png)
 
+_______________________________________________
 # Alumnos
 
 - Humberto Israel Perez Rodriguez
 - Victor Hugo Robles Aguayo
 - Juan Carlos Navarro Borunda
 
+_______________________________________________
 # Profesor
 
 - Edgar Arturo Enrique Lopez
