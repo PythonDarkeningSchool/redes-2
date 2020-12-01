@@ -100,3 +100,43 @@ Debera quedar de la siguiente manera la conexion:
 
 
 > Nota: usar las dos primeras entradas de cada `Relay`, la 3 entrada es GND
+
+6 - Por ultimo conectar la clavija a un contacto de luz
+
+## Conexion de cualquier equipo en la caja de contactos
+
+En la caja de contactos se podra conectar cualquier aparato que se alimente de CA, como lo puede ser:
+
+1. Una lampara
+2. Un reloj
+3. etc
+
+En la imagen a continuacion se ilustra como conectar un reloj digital a la caja de contactos:
+
+![all_project](.img/configuration/all_project.jpeg)
+
+# Encendiendo y apagando lo conectado a la caja de contactos
+
+## Encender
+
+Para enceder el aparator que este conectado a la caja de contactos utilize el siguiente comando:
+
+```bash
+sudo relayManager -on <GPIO_PIN>
+```
+
+Ejemplo:
+
+![turn_on_gpio](.img/boot_up/turn_on_gpio.png)
+
+
+## Apagar
+
+
+Para apagar el aparator que este conectado a la caja de contactos utilize el siguiente comando:
+
+```bash
+sudo relayManager -off <GPIO_PIN>
+```
+
+![turn_off_gpio](.img/boot_up/turn_off_gpio.png)
