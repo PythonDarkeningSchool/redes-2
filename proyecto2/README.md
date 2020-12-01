@@ -1,4 +1,14 @@
 
+# Projecto 2
+
+Este projecto trata de realizar una implementacion de `iOT` (Internet de las cosas) con productos que se pueden comprar a travez de tiendas online e incluso se pueden comprar directamente en las electronicas locales.
+
+La implementacion aqui presentada se basara con la ayuda de una `Raspberry PI` el poder encender y apagar a travez de una conexion `SSH` o desde la misma interface de la `Raspberry` (Sistema Operativo) cualquier cosa que se conecte a una caja de contactos manejada a travez de una `Modulo de Relay de 4 canales`
+
+Por ejemplo, aqui se conecto un reloj digital para su correcta manipulacion
+
+![portada](.img/portada.jpg)
+
 # Requerimientos de hardware
 
 1 - Raspberry PI 3 modelo B o superior
