@@ -117,6 +117,8 @@ En la imagen a continuacion se ilustra como conectar un reloj digital a la caja 
 
 # Encendiendo y apagando lo conectado a la caja de contactos
 
+![evidence](.img/evidence.gif)
+
 ## Encender
 
 Para enceder el aparator que este conectado a la caja de contactos utilize el siguiente comando:
@@ -140,3 +142,13 @@ sudo relayManager -off <GPIO_PIN>
 ```
 
 ![turn_off_gpio](.img/boot_up/turn_off_gpio.png)
+
+# Alumnos
+
+- Humberto Israel Perez Rodriguez
+- Victor Hugo Robles Aguayo
+- Juan Carlos Navarro Borunda
+
+# Profesor
+
+- Edgar Arturo Enrique Lopez
