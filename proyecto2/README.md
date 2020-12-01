@@ -1,5 +1,24 @@
+# Tabla de contenidos
 
-# Projecto 2
+- [Tabla de contenidos](#tabla-de-contenidos)
+- [Projecto 2 - UTEG](#projecto-2---uteg)
+- [Requerimientos de hardware](#requerimientos-de-hardware)
+- [Requerimienos de software](#requerimienos-de-software)
+  - [Sistema Operativo](#sistema-operativo)
+  - [Script oficial](#script-oficial)
+    - [Instalacion en la Raspberry](#instalacion-en-la-raspberry)
+- [Instrucciones de ensamblado](#instrucciones-de-ensamblado)
+  - [Conexion de la raspberry con el modulo de relay](#conexion-de-la-raspberry-con-el-modulo-de-relay)
+  - [Conexion de la caja de contactos con el modulo de Relay](#conexion-de-la-caja-de-contactos-con-el-modulo-de-relay)
+  - [Conexion de cualquier equipo en la caja de contactos](#conexion-de-cualquier-equipo-en-la-caja-de-contactos)
+- [Encendiendo y apagando lo conectado a la caja de contactos](#encendiendo-y-apagando-lo-conectado-a-la-caja-de-contactos)
+  - [Encender](#encender)
+  - [Apagar](#apagar)
+- [Alumnos](#alumnos)
+- [Profesor](#profesor)
+
+_______________________________________________
+# Projecto 2 - UTEG
 
 Este projecto trata de realizar una implementacion de `iOT` (Internet de las cosas) con productos que se pueden comprar a travez de tiendas online e incluso se pueden comprar directamente en las electronicas locales.
 
